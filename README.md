@@ -1,0 +1,1 @@
+# EFI-msi-b250m-pro-OSX1
